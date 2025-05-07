@@ -7,4 +7,4 @@ EMEA,Belgium,Waregem (DC),BE-PLW-DCC-0003,192.168.11.212,Distribution (DC L2 Swi
 EMEA,Belgium,Waregem (DC),BE-PLW-DCC-0004,192.168.11.213,Distribution (DC L2 Switch),31-Oct-25,Yes,None Announced,None Announced,30-Apr-25
 EMEA,Belgium,Waregem (DC),BE-PLW-COR-0001,192.168.12.130,Distribution (DC L2 Switch),Retired,Retired,05-May-18,31-May-24,31-May-24
 EMEA,Belgium,Waregem (DC),BE-PLW-COR-0002,192.168.12.131,Distribution (DC L2 Switch),Retired,Retired,05-May-18,31-May-24,31-May-24
-EMEA,Belgium,Waregem (DC),CORE-N3K-3172TQ-01,192.168.12.132,Distribution (DC L2 Switch),29-Feb-24,No,25-Feb-2027,28-Feb-27,30-Apr-25
+EMEA,Belgium,Waregem (DC),CORE-N3K-3172TQ-01,192.168.12.132,Distribution (DC L2 Switch),29-Feb-24,No,25-Feb-2021,28-Feb-27,30-Apr-25
