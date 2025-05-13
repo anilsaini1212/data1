@@ -1,0 +1,6 @@
+Region,Device_Type,EOL_Status
+EMEA,Core Switch,Yes
+EMEA,Core Switch,No
+APAC,Distribution Switch,Yes
+AMER,Access Switch,Yes
+AMER,Access Switch,No
