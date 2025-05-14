@@ -1,6 +1,6 @@
-Region,Device_Type,EOL_Status
-EMEA,Core Switch,Yes
-EMEA,Core Switch,No
-APAC,Distribution Switch,Yes
-AMER,Access Switch,Yes
-AMER,Access Switch,No
+Region,Device_Type,EOL_Status,EOL
+EMEA,Core Switch,Yes,12-Nov-2025
+EMEA,Core Switch,No,12-Nov-2025
+APAC,Distribution Switch,Yes,12-Nov-2025
+AMER,Access Switch,Yes,12-Nov-2025
+AMER,Access Switch,No,12-Dec-2025
